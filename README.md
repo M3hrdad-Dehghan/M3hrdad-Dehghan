@@ -8,6 +8,6 @@ I’ve worked on cloud-based analytics and data science solutions across **Micro
 
 My work emphasizes **Practical and Responsible Machine Learning** — prioritizing interpretability, evaluation, and real-world impact over buzzwords.
 
-🎥 Youtube [YouTube](https://www.youtube.com/@Mehrdad_Dehghan)
+🎥 Video Walk-through of Projects on [YouTube](https://www.youtube.com/@Mehrdad_Dehghan)
 
-💬 LinkedIn [LinkedIn](https://www.linkedin.com/in/mehrdad-dehghan/)
+💬 My official page on LinkedIn [LinkedIn](https://www.linkedin.com/in/mehrdad-dehghan/)
