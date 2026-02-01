@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Mehrdad
+## 👋 Hi, I’m Mehrdad
 
 ---
 
@@ -14,8 +14,6 @@
   </strong>
 </p>
 
-
-
 🎥 Video Walk-through of Projects on [YouTube](https://www.youtube.com/@Mehrdad_Dehghan)
 
 💬 My official page on LinkedIn [LinkedIn](https://www.linkedin.com/in/mehrdad-dehghan/)
@@ -25,5 +23,7 @@
 #### Languages and Tools:
 [![Python](assets/python.png)](https://www.python.org)
 [![Pandas](assets/pandas.png)](https://pandas.pydata.org)
-[![Numpy](assets/numpy.png)](https://numpy.org)
-
+[![NumPy](assets/numpy.png)](https://numpy.org)
+[![SciPy](assets/scipy.png)](https://scipy.org)
+[![TensorFlow](assets/tensorflow.png)](https://www.tensorflow.org)
+[![ScikitLearn](assets/scikitlearn.png)](https://scikit-learn.org)
