@@ -7,3 +7,7 @@ I enjoy turning complex datasets into actionable insights using **SQL, Python, a
 I’ve worked on cloud-based analytics and data science solutions across **Microsoft Azure and Google Cloud**, building scalable data models, pipelines, and applied ML systems for prediction and decision support.
 
 My work emphasizes **Practical and Responsible Machine Learning** — prioritizing interpretability, evaluation, and real-world impact over buzzwords.
+
+🎥 Youtube [YouTube](https://www.youtube.com/@Mehrdad_Dehghan)
+
+💬 LinkedIn [LinkedIn](https://www.linkedin.com/in/mehrdad-dehghan/)
