@@ -17,4 +17,4 @@ My work emphasizes **Practical and Responsible Machine Learning** — prioritizi
 --- 
 
 #### Languages and Tools:
-Azure , Google, Git, MS Server, MySQL, Pandas, Python, Numpy, Scipy, TensorFlow, Sciktlet, MLFlow, Docker, PoweBI, Tableau, VS Code
+![Profile Image](assets/python.png)
