@@ -1,4 +1,4 @@
-![Python](assets/python.png)
+![Python](assets/banner.png)
 
 ## 👋 Hi, I’m Mehrdad
 
