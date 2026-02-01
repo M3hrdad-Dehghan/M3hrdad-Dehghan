@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <strong>
     A Data Scientist with 5+ years of experience using data, statistics, and experimentation to support real-world business and product decisions across telecom and healthcare.
     <br/><br/>
@@ -13,6 +13,7 @@
     My work emphasizes Practical and Responsible Machine Learning — prioritizing interpretability, evaluation, and real-world impact over buzzwords.
   </strong>
 </p>
+
 
 
 🎥 Video Walk-through of Projects on [YouTube](https://www.youtube.com/@Mehrdad_Dehghan)
