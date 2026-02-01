@@ -27,3 +27,6 @@
 [![SciPy](assets/scipy.png)](https://scipy.org)
 [![TensorFlow](assets/tensorflow.png)](https://www.tensorflow.org)
 [![ScikitLearn](assets/scikitlearn.png)](https://scikit-learn.org)
+[![SQLServer](assets/sqlserver.png)](https://www.sqlservertutorial.net)
+[![MySQL](assets/mysql.png)](https://www.mysql.com)
+[![PostgreSQL](assets/postgresql.png)](https://www.postgresql.org)
