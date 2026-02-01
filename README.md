@@ -13,3 +13,6 @@ My work emphasizes **Practical and Responsible Machine Learning** — prioritizi
 🎥 Video Walk-through of Projects on [YouTube](https://www.youtube.com/@Mehrdad_Dehghan)
 
 💬 My official page on LinkedIn [LinkedIn](https://www.linkedin.com/in/mehrdad-dehghan/)
+
+#### Languages and Tools:
+Azure , Google, Git, MS Server, MySQL, Pandas, Python, Numpy, Scipy, TensorFlow, Sciktlet, MLFlow, Docker, PoweBI, Tableau, VS Code
