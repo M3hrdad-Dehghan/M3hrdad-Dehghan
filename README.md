@@ -30,3 +30,7 @@
 [![SQLServer](assets/sqlserver.png)](https://www.sqlservertutorial.net)
 [![MySQL](assets/mysql.png)](https://www.mysql.com)
 [![PostgreSQL](assets/postgresql.png)](https://www.postgresql.org)
+[![Git](assets/git.png)](https://git-scm.com)
+[![Azure](assets/azure.png)](https://portal.azure.com)
+[![Google](assets/google.png)](https://cloud.google.com)
+[![MLflow](assets/mlflow.png)](https://mlflow.org)
