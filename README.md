@@ -1,3 +1,5 @@
+[![Python](assets/python.png)]
+
 ## 👋 Hi, I’m Mehrdad
 
 ---
