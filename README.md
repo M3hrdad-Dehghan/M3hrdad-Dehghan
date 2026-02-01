@@ -18,4 +18,6 @@ My work emphasizes **Practical and Responsible Machine Learning** — prioritizi
 
 #### Languages and Tools:
 [![Python](assets/python.png)](https://www.python.org)
+[![Pandas](assets/pandas.png)](https://pandas.pydata.org)
+[![Numpy](assets/numpy.png)](https://numpy.org)
 
