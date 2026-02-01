@@ -34,3 +34,7 @@
 [![Azure](assets/azure.png)](https://portal.azure.com)
 [![Google](assets/google.png)](https://cloud.google.com)
 [![MLflow](assets/mlflow.png)](https://mlflow.org)
+[![Docker](assets/docker.png)](https://www.docker.com)
+[![VSCode](assets/vscode.png)](https://code.visualstudio.com)
+[![Tableaue](assets/tableaue.png)](https://www.tableau.com)
+[![PowerBI](assets/powerbi.png)](https://app.powerbi.com)
